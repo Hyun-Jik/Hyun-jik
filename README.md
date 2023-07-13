@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 ![IMG_8952](https://github.com/HyunJiggy/HyunJiggy/assets/139331395/69da050b-953a-4554-a935-15f41623d4db)
 
