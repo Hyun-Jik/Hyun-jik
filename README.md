@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunJiggy&show_icons=true&theme=transparent)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={lhj0122})](https://solved.ac/{lhj0122})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhj0122)](https://solved.ac/lhj0122)
 
 
 # 학업
