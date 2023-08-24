@@ -30,8 +30,10 @@ SSAFY 10기 파이썬 트랙
 # IT 관심사
 빅데이터 관련
 
+
 # 기술스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 
 # contact
 - hjl0122@gmail.com
