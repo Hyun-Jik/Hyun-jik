@@ -7,7 +7,7 @@
 
 저의 좌우명은 '미루지 말자, 밑에서 부터 꾸준히 발전해 나가자!'입니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-jik&show_icons=true&theme=transparent)
+![Hyun-jik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-jik&show_icons=true&theme=transparent)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhj0122)](https://solved.ac/lhj0122)
 
