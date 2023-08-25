@@ -5,7 +5,7 @@
 
 저는 지금 SSAFY 10기 파이썬 트랙 과정을 이수하고 있습니다.
 
-저의 좌우명은 '미루지 말자, 밑에서 부터 꾸준히 발전해 나가자!'입니다.
+저의 좌우명은 '미루지 말자, 꾸준히 발전해 나가자!'입니다.
 
 ![Hyun-jik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-jik&show_icons=true&theme=transparent)
 
