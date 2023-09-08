@@ -17,6 +17,7 @@
 
 SSAFY 10기 파이썬 트랙📖
 
+
 # 자격증
 자동차 운전면허 1종 보통
 
@@ -33,10 +34,9 @@ SSAFY 10기 파이썬 트랙📖
 
 # 기술스택
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 
 # contact
 - hjl0122@gmail.com
