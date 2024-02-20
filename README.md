@@ -9,7 +9,7 @@
 
 ![Hyun-jik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-jik&show_icons=true&theme=transparent)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhj0122)][(https://solved.ac/lhj0122)](https://solved.ac/profile/lhj0122)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhj0122)][(https://solved.ac/lhj0122)]
 
 
 # 학업
