@@ -41,7 +41,7 @@ SSAFY 10기 파이썬 트랙📖
 <img src="https://img.shields.io/badge/NOTION-ffffff?style=for-the-badge&logo=NOTION&logoColor=000000"> <img src="https://img.shields.io/badge/MATTERMOST-2c4478?style=for-the-badge&logo=MATTERMOST&logoColor=ffffff">
 
 # contact
-- hjl0122@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjl0122@gmail.com)
 
 
 
