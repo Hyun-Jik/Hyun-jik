@@ -11,9 +11,9 @@
 
 
 # 학업
-KNU - Materials Science and Metallurgical Engineering 🎓
+KNU 금속신소재공학전공 졸업 🎓
 
-SSAFY 10기 Python 트랙 1학기 (800시간) 📖
+SSAFY 10기 Python 트랙 1학기 (800시간) 수료 📖
 
 
 # 자격증
