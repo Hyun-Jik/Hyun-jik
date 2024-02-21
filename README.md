@@ -11,9 +11,9 @@
 
 
 # 학업
-KNU Metallurgical Engineering 졸업🎓
+KNU - Materials Science and Metallurgical Engineering 졸업 🎓
 
-SSAFY 10기 파이썬 트랙 1학기 수료 (800시간) 📖
+SSAFY 10기 Python 트랙 1학기 수료 (800시간) 📖
 
 
 # 자격증
