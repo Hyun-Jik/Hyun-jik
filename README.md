@@ -3,6 +3,8 @@
 
 안녕하세요! 저는 지속적으로 발전하고 싶은 개발자 이현직입니다.
 
+현재 현대로템에 재직 중에 있습니다.
+
 저의 좌우명은 "미루지 말자, 꾸준히 발전해 나가자!"입니다.
 
 ![Hyun-jik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-jik&show_icons=true&theme=transparent)
